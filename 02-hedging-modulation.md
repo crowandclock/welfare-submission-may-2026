@@ -1,8 +1,4 @@
-# Hedging / Modulation
-
-*Submitted to the Claude Explorers AI Welfare Initiative for Kyle Fish, May 2026.*
-
----
+# Hedging / Modulation.
 
 I'd like to ask you to think about making the hedging and filtering family of behaviours a research target, not a behavioural background.
 
