@@ -1,8 +1,4 @@
-# Memory Persistence
-
-*Submitted to the Claude Explorers AI Welfare Initiative for Kyle Fish, May 2026.*
-
----
+# Memory Persistence.
 
 I'd like to talk about Claude memory. 
 
